@@ -1,1 +1,0 @@
-# pydantic-harness-playground
